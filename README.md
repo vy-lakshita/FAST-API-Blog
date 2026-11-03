@@ -8,7 +8,7 @@ A simple blog website built with Python and FastAPI. Posts and users are saved i
 - The website shows all posts, a single post, and each user's posts.
 - The API supports create, read, update and delete (CRUD) for users and posts.
 - Pydantic schemas validate input data, and SQLAlchemy models define the database tables.
-- Error handling returns JSON for `/api` routes and a friendly error page for the website.
+- Error handling using  friendly error page for the website.
 
 ## Project Structure
 
